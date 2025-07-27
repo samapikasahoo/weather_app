@@ -1,0 +1,23 @@
+{
+  "place_id": "242368741",
+  "licence": "https://locationiq.com/attribution",
+  "osm_type": "node",
+  "osm_id": "6432436586",
+  "lat": "6.9321557",
+  "lon": "79.8479562",
+  "display_name": "Water Garden, D. R. Wijewardene Mawatha, L B Gate, Fort, Slave Island, Colombo, Colombo District, Western Province, 10110, Sri Lanka",
+  "address": {
+    "restaurant": "Water Garden",
+    "road": "D. R. Wijewardene Mawatha",
+    "hamlet": "L B Gate",
+    "suburb": "Fort",
+    "village": "Slave Island",
+    "city": "Colombo",
+    "state_district": "Colombo District",
+    "state": "Western Province",
+    "postcode": "10110",
+    "country": "Sri Lanka",
+    "country_code": "lk"
+  },
+  "boundingbox": ["6.9321057", "6.9322057", "79.8479062", "79.8480062"]
+}

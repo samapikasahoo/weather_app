@@ -1,0 +1,24 @@
+{
+  "location": {
+    "name": "London",
+    "region": "City of London, Greater London",
+    "country": "United Kingdom",
+    "lat": 51.52,
+    "lon": -0.11,
+    "tz_id": "Europe/London",
+    "localtime_epoch": 1687123456,
+    "localtime": "2023-06-19 12:30"
+  },
+  "astronomy": {
+    "astro": {
+      "sunrise": "04:43 AM",
+      "sunset": "09:21 PM",
+      "moonrise": "05:12 AM",
+      "moonset": "10:45 PM",
+      "moon_phase": "Waxing Crescent",
+      "moon_illumination": 35,
+      "is_moon_up": 0,
+      "is_sun_up": 1
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "location": {
+    "name": "London",
+    "region": "City of London, Greater London",
+    "country": "United Kingdom",
+    "lat": 35.68,
+    "localtime": "",
+    "localtime_epoch": 0,
+    "lon": 0,
+    "tz_id": "Europe/London"
+  },
+  "current": {
+    "last_updated_epoch": 1687234560,
+    "last_updated": "2023-06-20 09:15",
+    "temp_c": 25.0,
+    "temp_f": 77.0,
+    "is_day": 1,
+    "condition": {
+      "code": 1000,
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "text": "Sunny"
+    },
+    "wind_mph": 10.0,
+    "wind_kph": 16.1,
+    "wind_degree": 200,
+    "wind_dir": "SW",
+    "pressure_mb": 1010.0,
+    "pressure_in": 29.83,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 60,
+    "cloud": 20,
+    "feelslike_c": 26.0,
+    "feelslike_f": 78.8,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 6.0,
+    "gust_mph": 12.0,
+    "gust_kph": 19.3,
+    "windchill_f": 0,
+    "heatindex_f": 0,
+    "dewpoint_c": 0,
+    "windchill_c": 0,
+    "heatindex_c": 0,
+    "dewpoint_f": 0
+  },
+  "forecast": {
+    "forecastday": [
+      {
+        "date": "2023-06-20",
+        "date_epoch": 1687234560,
+        "day": {
+          "maxtemp_c": 30.0,
+          "maxtemp_f": 86.0,
+          "mintemp_c": 20.0,
+          "mintemp_f": 68.0,
+          "avgtemp_c": 25.0,
+          "avgtemp_f": 77.0,
+          "maxwind_mph": 15.0,
+          "maxwind_kph": 24.1,
+          "totalprecip_mm": 0.0,
+          "totalprecip_in": 0.0,
+          "condition": {
+            "code": 1003,
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+            "text": "Partly cloudy"
+          },
+          "uv": 5.0,
+          "avgvis_km": 0,
+          "avghumidity": 0,
+          "avgvis_miles": 0
+        },
+        "astro": {
+          "sunrise": "04:43 AM",
+          "sunset": "07:21 PM",
+          "moonrise": "05:12 AM",
+          "moonset": "08:45 PM",
+          "moon_phase": "Waxing Crescent",
+          "moon_illumination": 35,
+          "is_moon_up": 0,
+          "is_sun_up": 1
+        },
+        "hour": []
+      }
+    ]
+  }
+}

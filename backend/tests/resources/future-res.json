@@ -1,0 +1,50 @@
+{
+  "location": {
+    "name": "London",
+    "region": "City of London, Greater London",
+    "country": "United Kingdom",
+    "lat": 48.85,
+    "lon": 2.35,
+    "tz_id": "Europe/London",
+    "localtime_epoch": 1688000000,
+    "localtime": "2023-06-28 14:00"
+  },
+  "forecast": {
+    "forecastday": [
+      {
+        "date": "2023-06-25",
+        "date_epoch": 1687651200,
+        "day": {
+          "avgvis_km": 12.0,
+          "uv": 7.0,
+          "avgtemp_f": 68.0,
+          "avgtemp_c": 20.0,
+          "maxtemp_c": 25.0,
+          "maxtemp_f": 77.0,
+          "mintemp_c": 15.0,
+          "avgvis_miles": 7.0,
+          "mintemp_f": 59.0,
+          "totalprecip_in": 0.1,
+          "avghumidity": 60,
+          "condition": {
+            "text": "Light rain",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+            "code": 1183
+          },
+          "maxwind_kph": 18.0,
+          "maxwind_mph": 11.2,
+          "totalprecip_mm": 2.5
+        },
+        "astro": {
+          "moonset": "11:30 PM",
+          "moon_illumination": 60,
+          "sunrise": "05:45 AM",
+          "moon_phase": "First Quarter",
+          "sunset": "09:55 PM",
+          "moonrise": "01:15 PM"
+        },
+        "hour": []
+      }
+    ]
+  }
+}

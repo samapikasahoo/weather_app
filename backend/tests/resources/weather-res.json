@@ -1,0 +1,47 @@
+{
+  "current": {
+    "last_updated_epoch": 1687123500,
+    "last_updated": "2023-06-19 12:45",
+    "temp_c": 18.5,
+    "temp_f": 65.3,
+    "is_day": 1,
+    "condition": {
+      "code": 1003,
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+      "text": "Cloudy"
+    },
+    "wind_mph": 12.3,
+    "wind_kph": 19.8,
+    "wind_degree": 180,
+    "wind_dir": "S",
+    "pressure_mb": 1012.5,
+    "pressure_in": 29.89,
+    "precip_mm": 0.2,
+    "precip_in": 0.01,
+    "humidity": 72,
+    "cloud": 80,
+    "feelslike_c": 19.0,
+    "feelslike_f": 66.2,
+    "windchill_c": 17.8,
+    "windchill_f": 64.0,
+    "heatindex_c": 18.7,
+    "heatindex_f": 65.7,
+    "dewpoint_c": 13.2,
+    "dewpoint_f": 55.8,
+    "vis_km": 8.0,
+    "vis_miles": 5.0,
+    "uv": 4.0,
+    "gust_mph": 15.0,
+    "gust_kph": 24.1
+  },
+  "location": {
+    "name": "London",
+    "region": "City of London, Greater London",
+    "country": "United Kingdom",
+    "lat": 35.68,
+    "lon": 139.76,
+    "tz_id": "Europe/London",
+    "localtime_epoch": 1687234567,
+    "localtime": "2023-06-20 09:15"
+  }
+}
